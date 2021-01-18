@@ -9,7 +9,7 @@
 
 
 html body #unique{
-	font-size: 12px;
+	font-size: 15px;
 	font-family: "Roboto Cn", sans-serif;
 }
 
@@ -61,7 +61,7 @@ nav{
 	background-color: #fff ;
 	justify-content: space-between;
 	align-items: center;
-	text-transform: uppercase;
+	text-transform: backspace;
 
 	font-weight: 600;
 	box-shadow:0 4px #eeeeee; 
@@ -194,7 +194,7 @@ nav ul li a:hover::after{
 	}
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1124px){
 
 	.menu-toggle{
 		display: block;
